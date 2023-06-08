@@ -15,6 +15,7 @@
 <img width="736" alt="image" src="https://github.com/Milorann/OS_HW4/assets/57359954/72876275-2c0b-41f1-973a-2ee9ca2ce408">  
 <img width="734" alt="image" src="https://github.com/Milorann/OS_HW4/assets/57359954/1455e1a6-862a-4fb4-b2b0-b8d03fb761e0">  
 <img width="734" alt="image" src="https://github.com/Milorann/OS_HW4/assets/57359954/f80c13d4-5664-4fa0-b3af-c17df6f3d3ea">  
+<img width="737" alt="image" src="https://github.com/Milorann/OS_HW4/assets/57359954/b0ce6615-5d23-4bb3-8852-1a86a3eccaab">  
   
 ### 6-7 баллов ###
 Разработать клиентскую программу, подключаемую к серверу, которая предназначена для отображения комплексной информации о выполнении приложения в целом.  
