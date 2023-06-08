@@ -40,7 +40,7 @@ int createSocket(int port, in_addr_t servInAddr)
     return servSock;
 }
 
-void HandleTCPClient()
+void HandleUDPClient()
 {
     unsigned int clntLen;            /* Length of client address data structure */
     struct sockaddr_in echoClntAddr; /* Client address */
@@ -134,6 +134,6 @@ int main(int argc, char *argv[])
 
     for (;;)
     {
-        HandleTCPClient();
+        HandleUDPClient();
     }
 }
